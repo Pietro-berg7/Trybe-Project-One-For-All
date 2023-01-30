@@ -82,7 +82,7 @@ VALUES
   ('Bell Hooks', 26, 3, '2018-01-05'),
   ('Christopher Alexander', 85, 4, '2019-06-05'),
   ('Judith Butler', 45, 4, '2020-05-13'),
-  ('jorge Amado', 58, 4, '2017-02-17');
+  ('Jorge Amado', 58, 4, '2017-02-17');
 
 INSERT INTO SpotifyClone.following_table(user_id, following_column)
 VALUES
